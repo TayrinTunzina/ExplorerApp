@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ExplorerApp"
+rootProject.name = "AdvanceMap"
 include(":app")
